@@ -1,0 +1,27 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "m2KNeqWxsEssMLjLwVVP8",
+      "name": "Red",
+      "value": "#a41919"
+    },
+    {
+      "id": "eNPh67z_2_BMcsOLJTZ9Q",
+      "name": "Blue",
+      "value": "#19178c"
+    },
+    {
+      "id": "8qPc_s0RTWDCQtCxufIOm",
+      "name": "Green",
+      "value": "#0ecd47"
+    },
+    {
+      "id": "sLC07aS8QyjvAQx64y_sv",
+      "name": "White",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": []
+}
