@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software/Modelo de Processos.md",
+                "file": "Faculdade/Projeto Integrador - 2° Período/Documentações/Técnicas de Programação/Diagrama de Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo de Processos"
+              "title": "Diagrama de Classes"
             }
           }
         ]
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software/Modelo de Processos.md",
+                "file": "Faculdade/Projeto Integrador - 2° Período/Documentações/Técnicas de Programação/Diagrama de Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,13 +229,14 @@
   },
   "active": "ab439ef36363e77c",
   "lastOpenFiles": [
-    "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software/Documentação do Projeto.md",
-    "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software/Modelo de Processos.md",
     "Faculdade/Projeto Integrador - 2° Período/Documentações/Ata de Abertura.md",
     "Faculdade/Projeto Integrador - 2° Período/Documentações/Roteiro de Projeto.md",
+    "Faculdade/Projeto Integrador - 2° Período/Central de Tarefas.md",
+    "Faculdade/Projeto Integrador - 2° Período/Documentações/Técnicas de Programação/Diagrama de Classes.md",
+    "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software/Modelo de Processos.md",
+    "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software/Documentação do Projeto.md",
     "Auxilio/Fluxo de Git e GitHub.md",
     "Auxilio",
-    "Faculdade/Projeto Integrador - 2° Período/Central de Tarefas.md",
     "Faculdade/Projeto Integrador - 2° Período/Documentações/Técnicas de Programação",
     "Faculdade/Projeto Integrador - 2° Período/Documentações/Processos de Engenharia de Software",
     "Faculdade/Sem título.canvas",
