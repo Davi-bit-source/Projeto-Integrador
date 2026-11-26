@@ -102,6 +102,11 @@ Sistema em Java que registra a entrada de doações por lote, controla a validad
 | Should    | RNF02, RNF05        | Desempenho e manutenibilidade (MVC e DAO) são importantes, mas o primeiro depende do volume de dados e o segundo é uma boa prática que se constrói junto com o código. |
 
 
+## Modelo de Processo
+
+
+Para conferir o modelo de Processo vá para [[Modelo de Processos]]
+
 
 ## Rastreabilidade
 
@@ -114,9 +119,10 @@ Sistema em Java que registra a entrada de doações por lote, controla a validad
 ## Histórico de Versões
 
 
-| Versão | Data       | Autor | Descrição                                                                      |
-| ------ | ---------- | ----- | ------------------------------------------------------------------------------ |
-| 0.1    | 24/11/2026 | Davi  | Criação do Documento                                                           |
-| 0.2    | 25/11/2026 | Davi  | Inclusão de Requisitos, regras de negocio, restrições e priorização por MoSCoW |
-|        |            |       |                                                                                |
-|        |            |       |                                                                                |
+| Versão | Data       | Autor                   | Descrição                                                                      |
+| ------ | ---------- | ----------------------- | ------------------------------------------------------------------------------ |
+| 0.1    | 24/11/2026 | Davi                    | Criação do Documento                                                           |
+| 0.2    | 25/11/2026 | Davi                    | Inclusão de Requisitos, regras de negocio, restrições e priorização por MoSCoW |
+| 0.3    | 25/11/2026 | Davi, Gustavo e Ronaldo | Criação do Modelo de Processos                                                 |
+| 0.4    | 26/11/2026 | Davi                    | Criação do Mapeamento de Processos                                             |
+|        |            |                         |                                                                                |

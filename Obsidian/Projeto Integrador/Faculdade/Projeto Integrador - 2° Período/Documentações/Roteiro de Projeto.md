@@ -14,7 +14,7 @@
 
 - [x] Levantamento de Requisitos 📅 2026-11-25 ✅ 2026-11-25
 - [x] Análise de Requisitos 📅 2026-11-25 ✅ 2026-11-25
-- [ ] Modelo de Processo 📅 2026-11-25 
+- [x] Modelo de Processo 📅 2026-11-25 ✅ 2026-11-25
 - [ ] Modelagem BPMN📅 2026-11-26 
 - [ ] Definição de KPIs 📅 2026-11-26 
 - [ ] Quadro Scrum 📅 2026-11-26 
