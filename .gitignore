@@ -1,3 +1,27 @@
-# Configurações individuais do Obsidian
-**/.obsidian/workspace.json
-**/.obsidian/workspace-mobile.json
+# ===== Obsidian (configurações individuais de cada pessoa) =====
+.obsidian/
+.trash/
+
+# ===== Compilados (gerados pelo Ant) =====
+*.class
+build/
+dist/
+
+# ===== NetBeans =====
+nbproject/private/
+
+# ===== Outras IDEs =====
+.idea/
+*.iml
+.vscode/
+
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs e temporários =====
+*.log
+*.tmp
+*.bak
+*~
