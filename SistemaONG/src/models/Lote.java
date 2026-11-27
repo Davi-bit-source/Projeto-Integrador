@@ -2,6 +2,7 @@ package models;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.time.temporal.ChronoUnit;
 
 public class Lote {
 
@@ -59,4 +60,31 @@ public class Lote {
     public void setProduto(Produto produto) {
         this.produto = produto;
     }
+    
+    
+    // Métodos da Classe Lote
+    
+    public boolean estaVencido() {
+        return dataValidade.isBefore(LocalDate.now());
+    }
+    
+    public boolean estaDisponivel() {
+        return saldoAtual.compareTo(BigDecimal.ZERO) > 0 && !estaVencido();
+    }
+    
+    
+    public void baixarQuantidade(BigDecimal quantidade) {
+        if (quantidade == null || quantidade.compareTo(BigDecimal.ZERO) <= 0) {
+            throw new IllegalArgumentException("Quantidade deve ser maior que zero.");
+        }
+        if (quantidade.compareTo(saldoAtual) > 0) {
+            throw new IllegalArgumentException("Quantidade maior que o saldo do lote.");
+        }
+        saldoAtual = saldoAtual.subtract(quantidade);
+    }
+    
+    public long diasParaVencer() {
+        return ChronoUnit.DAYS.between(LocalDate.now(), dataValidade);
+    }
+    
 }

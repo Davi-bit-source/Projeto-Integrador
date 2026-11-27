@@ -25,3 +25,4 @@ desktop.ini
 *.tmp
 *.bak
 *~
+/SistemaONG/nbproject/private/

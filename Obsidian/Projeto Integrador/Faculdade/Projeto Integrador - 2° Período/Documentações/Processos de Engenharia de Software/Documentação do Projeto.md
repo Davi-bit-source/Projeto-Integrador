@@ -104,22 +104,23 @@ Sistema em Java que registra a entrada de doações por lote, controla a validad
 
 ## Modelo de Processo
 
-Para conferir o modelo de Processo vá para [[Modelo de Processos]]
+Para conferir o modelo de Processo  acesse o arquivo [[Modelo de Processos]]
 
 
 ## Mapeamento de Processos
 
-Para conferir o Mapeamento de Processos em BPMN vá para [[Mapeamento de Processos]]
+Para conferir o Mapeamento de Processos em BPMN  acesse o arquivo [[Mapeamento de Processos]]
 
 
 ## Quadro Scrum
 
 
+Para conferir o quadro Scrum acesse o arquivo [[Quadro Scrum]]
 
 
 ## KPIS do Processo
 
-Para conferir os KPIS do processo vá para [[KPIS do Processo]]
+Para conferir os KPIS do processo  acesse o arquivo [[KPIS do Processo]]
 
 
 ## Rastreabilidade
