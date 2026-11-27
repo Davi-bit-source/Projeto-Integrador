@@ -104,22 +104,29 @@ Sistema em Java que registra a entrada de doações por lote, controla a validad
 
 ## Modelo de Processo
 
-Para conferir o modelo de Processo vá para [[Modelo de Processos]]
+Para conferir o modelo de Processo acesse o arquivo [[Modelo de Processos]]
 
 
 ## Mapeamento de Processos
 
-Para conferir o Mapeamento de Processos em BPMN vá para [[Mapeamento de Processos]]
+Para conferir o Mapeamento de Processos em BPMN acesse o arquivo [[Mapeamento de Processos]]
 
 
 ## Quadro Scrum
 
-
+Para conferir o Quadro Scrum acesse o arquivo [[Quadro Scrum]]
 
 
 ## KPIS do Processo
 
 Para conferir os KPIS do processo vá para [[KPIS do Processo]]
+
+
+
+## Diagrama de Classes
+
+Para conferir o Diagrama de Classes acesse o arquivo [[Diagrama de Classes]]
+
 
 
 ## Rastreabilidade
@@ -139,4 +146,8 @@ Para conferir os KPIS do processo vá para [[KPIS do Processo]]
 | 0.2    | 25/11/2026 | Davi                    | Inclusão de Requisitos, regras de negocio, restrições e priorização por MoSCoW |
 | 0.3    | 25/11/2026 | Davi, Gustavo e Ronaldo | Criação do Modelo de Processos                                                 |
 | 0.4    | 26/11/2026 | Davi                    | Criação do Mapeamento de Processos                                             |
+| 0.5    | 26/11/2026 | Davi                    | Criação do Quadro Scum e dos KPIS                                              |
+|        |            |                         |                                                                                |
+|        |            |                         |                                                                                |
+|        |            |                         |                                                                                |
 |        |            |                         |                                                                                |

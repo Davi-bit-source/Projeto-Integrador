@@ -25,13 +25,13 @@ Além da associação, precisamos definir sua **multiplicidade**, que indica qua
 
 ### Multiplicidades mais comuns
 
-| Multiplicidade | Significado |
-|---|---|
-| `1` | Exatamente um |
-| `0..1` | Nenhum ou um |
-| `*` ou `0..*` | Nenhum ou muitos |
-| `1..*` | Um ou muitos |
-| `2..5` | No mínimo dois e no máximo cinco |
+| Multiplicidade | Significado                      |
+| -------------- | -------------------------------- |
+| `1`            | Exatamente um                    |
+| `0..1`         | Nenhum ou um                     |
+| `*` ou `0..*`  | Nenhum ou muitos                 |
+| `1..*`         | Um ou muitos                     |
+| `2..5`         | No mínimo dois e no máximo cinco |
 
 ## 2. Produto e Lote
 
